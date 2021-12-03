@@ -16,8 +16,8 @@
 #
 default: &default
   adapter: postgresql
-  # username: airera
-  # password: lionhelp
+  username: postgres
+  password: 
   encoding: unicode
   # For details on connection pooling, see Rails configuration guide
   # https://guides.rubyonrails.org/configuring.html#database-pooling
